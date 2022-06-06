@@ -1,15 +1,25 @@
-### Hi there 👋
+### Hi there 👋, I'm Shafiq Hammad
+#### I'm Frontend Web Developer
+A quick learner and self-motivated Web Developer with 3 years of experience. I love to learn new technologies.
 
-**shafiqhammad5/shafiqhammad5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML5 / CSS3 / BOOTSTRAP / TAILWINDCSS / JAVASCRIPT / REACTJS / NEXTJS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on @PIMJO 
+- 🌱 I’m currently learning NodeJS 
+- 💬 Ask me about Frontend problems 
+- 📫 How to reach me: shafiqhammad5@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/shafiqhammad5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/shafiqhammad5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/shafiqhammad5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/shafiqhammad5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/ShafiqHammad10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/shafiqhammad5)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqhammad5)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shafiqhammad5&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shafiqhammad5)  
+
+![GitHub metrics](https://metrics.lecoq.io/shafiqhammad5)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shafiqhammad5)  
+
+![Profile views](https://gpvc.arturio.dev/shafiqhammad5)  
