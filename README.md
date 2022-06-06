@@ -16,10 +16,6 @@ Skills: HTML5 / CSS3 / BOOTSTRAP / TAILWINDCSS / JAVASCRIPT / REACTJS / NEXTJS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shafiqhammad5&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shafiqhammad5)  
-
-![GitHub metrics](https://metrics.lecoq.io/shafiqhammad5)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shafiqhammad5)  
 
 ![Profile views](https://gpvc.arturio.dev/shafiqhammad5)  
