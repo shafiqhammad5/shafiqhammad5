@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Shafiq Hammad
-#### I'm Frontend Web Developer
+#### I'm Frontend Developer
 A quick learner and self-motivated Web Developer with 3 years of experience. I love to learn new technologies.
 
 Skills: HTML5 / CSS3 / BOOTSTRAP / TAILWINDCSS / JAVASCRIPT / REACTJS / NEXTJS
