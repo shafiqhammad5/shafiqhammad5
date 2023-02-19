@@ -11,7 +11,7 @@ Skills: HTML5 / CSS3 / BOOTSTRAP / TAILWINDCSS / JAVASCRIPT / REACTJS / NEXTJS
 - 💬 Ask me about Frontend problems
 - 📫 How to reach me: shafiqhammad5@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/shafiqhammad5/) [<img src='./icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/shafiqhammad5) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/shafiqhammad5/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/ShafiqHammad10) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/shafiqhammad5)
+[<img src='./icons/linkedin.svg' alt='linkedin' height='30' style="margin: 4px" >](https://www.linkedin.com/in/shafiqhammad5/) [<img src='./icons/facebook.svg' alt='facebook' height='30' style="margin: 4px">](https://www.facebook.com/shafiqhammad5) [<img src='./icons/instagram.svg' alt='instagram' height='30' style="margin: 4px">](https://www.instagram.com/shafiqhammad5/) [<img src='./icons/twitter.svg' alt='twitter' height='30' style="margin: 4px">](https://twitter.com/ShafiqHammad10) [<img src='./icons/codepen.svg' alt='codepen' height='30' style="margin: 4px">](https://codepen.io/shafiqhammad5)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqhammad5)](https://github.com/anuraghazra/github-readme-stats)
 
