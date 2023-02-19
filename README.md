@@ -6,7 +6,7 @@ A quick learner and self-motivated Web Developer with 3 years of experience. I l
 
 Skills: HTML5 / CSS3 / BOOTSTRAP / TAILWINDCSS / JAVASCRIPT / REACTJS / NEXTJS
 
-- 🔭 I’m currently working on @PIMJO
+- 🔭 I’m currently working on @[PIMJO](https://pimjo.com)
 - 🌱 I’m currently learning NodeJS
 - 💬 Ask me about Frontend problems
 - 📫 How to reach me: shafiqhammad5@gmail.com
