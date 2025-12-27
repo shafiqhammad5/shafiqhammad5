@@ -25,10 +25,10 @@ A quick learner and self-motivated Senior Frontend Developer with 5+ years of ex
 
 ### GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqhammad5)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqhammad5&layout=compact&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shafiqhammad5&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shafiqhammad5&show_icons=true&theme=dark&count_private=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shafiqhammad5)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shafiqhammad5&theme=dark)
 
-![Profile views](https://gpvc.arturio.dev/shafiqhammad5)
+![Profile views](https://komarev.com/ghpvc/?username=shafiqhammad5&color=blueviolet&style=flat-square)
