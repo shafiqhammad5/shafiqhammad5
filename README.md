@@ -1,17 +1,29 @@
 ### Hi there 👋, I'm Shafiq Hammad
 
-#### I'm Frontend Developer
+#### Senior Frontend Developer | Open to Work
 
-A quick learner and self-motivated Web Developer with 5 years of experience. I love to learn new technologies.
+A quick learner and self-motivated Senior Frontend Developer with 5+ years of experience building modern, scalable web applications. I specialize in creating exceptional user experiences with cutting-edge technologies.
 
-Skills: HTML5 / CSS3 / BOOTSTRAP / TAILWINDCSS / JAVASCRIPT / REACTJS / NEXTJS
+**Skills:** Next.js / React / Tailwind CSS / Bootstrap / TypeScript / JavaScript / HTML5 / CSS3
 
-- 🔭 I’m currently working on @[PIMJO](https://pimjo.com)
-- 🌱 I’m currently learning NodeJS
-- 💬 Ask me about Frontend problems
+**Experience:**
+
+- 🏢 Senior Frontend Developer at [PIMJO](https://pimjo.com) (2020 - November 2025)
+- 💼 Currently **Open to Work** and exploring new opportunities
+- 🌱 Continuously learning and staying updated with the latest frontend technologies
+- 💬 Ask me about Next.js, React, or Frontend architecture
+- 🌐 Portfolio: [shafiqhammad.site](https://shafiqhammad.site)
 - 📫 How to reach me: shafiqhammad5@gmail.com
 
-[<img src='./icons/linkedin.svg' alt='linkedin' height='40' style="margin-right: 4px;" >](https://www.linkedin.com/in/shafiqhammad5/) [<img src='./icons/facebook.svg' alt='facebook' height='40' style="margin: 4px">](https://www.facebook.com/shafiqhammad5) [<img src='./icons/instagram.svg' alt='instagram' height='40' style="margin: 4px">](https://www.instagram.com/shafiqhammad5/) [<img src='./icons/twitter.svg' alt='twitter' height='40' style="margin: 4px">](https://twitter.com/ShafiqHammad10) [<img src='./icons/codepen.svg' alt='codepen' height='40' style="margin: 4px">](https://codepen.io/shafiqhammad5)
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiqhammad5/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shafiqhammad5)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shafiqhammad5/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShafiqHammad10)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shafiqhammad5)
+
+### GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqhammad5)](https://github.com/anuraghazra/github-readme-stats)
 
